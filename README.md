@@ -1,6 +1,6 @@
 # Terraform команды
 
-Команда terraform init используется для инициализации рабочей директории Terraform. Проще говоря, она подготавливает проект к работе с Terraform, чтобы можно было использовать команды terraform plan и terraform apply.
+1. terraform init - # используется для инициализации рабочей директории Terraform. Проще говоря, она подготавливает проект к работе с Terraform, чтобы можно было использовать команды terraform plan и terraform apply.
 
 Что делает terraform init:
 
